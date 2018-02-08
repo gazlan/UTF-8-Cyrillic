@@ -1,0 +1,7 @@
+-*-   TXT-2-UTF8 1.0   *   (c) gazlan@yandex.ru, 2016   -*-
+
+Russian CP-1251 to UTF-8 converter
+
+Usage: txt2utf.com [wildcards]
+
+complains_n_suggestions direct to gazlan@yandex.ru
